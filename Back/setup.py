@@ -12,7 +12,7 @@ requires = [
     'jwcrypto==0.6.0',
     'exifread==2.1.2',
     'geojson==2.4.1',
-    'lxml==4.3.3',
+    'lxml==4.6.3',
     'matplotlib==3.0.3',
     # 'opencv-python',
     'openpyxl==2.4.8',
